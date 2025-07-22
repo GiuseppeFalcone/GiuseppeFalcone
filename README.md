@@ -32,10 +32,17 @@ Here are some of the technologies I've been working with recently:
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/> </a>
 </p>
 
+**Databases**
+<p align="left">
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> </a>
+</p>
+
 **Frontend & UI**
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> </a>
   <a href="https://www.java.com/en/products/javafx/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaFX-095181?style=for-the-badge&logo=java&logoColor=white" alt="javafx"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/> </a>
 </p>
 
 **Data Analysis & Science**
@@ -50,6 +57,7 @@ Here are some of the technologies I've been working with recently:
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
   <a href="https://github.com/GiuseppeFalcone" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/> </a>
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/gitlab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/> </a>
 </p>
 
