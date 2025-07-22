@@ -82,3 +82,10 @@ Here are a few projects I'm proud of. You can find more in my repositories!
 | **[MailFX](https://github.com/GiuseppeFalcone/MailFX)**                | A client-server mail application with a graphical user interface. | `Java`, `JavaFX`, `Client-Server Architecture` |
 | **[CineVault](https://github.com/GiuseppeFalcone/CineVault)**              | A movie information and recommendation platform.          | `Python`, `Jupyter`, `Pandas`, `JavaScript`  |
 | **[Architettura-Esercizi](https://github.com/GiuseppeFalcone/Architettura-Esercizi)** | A collection of exercises on low-level computer architecture topics. | `C`, `Assembly`, `Computer Architecture`     |
+
+---
+
+### 🎨 Featured Design
+
+- **[Student Voice FM](https://figma.com/community/file/1529541184513872756/student-voice-fm)**  
+  UI and UX for a web radio platform, created during a Software UI/UX course using Figma.
