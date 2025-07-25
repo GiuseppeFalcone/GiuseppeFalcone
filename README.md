@@ -78,10 +78,9 @@ Here are a few projects I'm proud of. You can find more in my repositories!
 
 | Project                                                          | Description                               | Technologies Used                            |
 | ---------------------------------------------------------------- | ----------------------------------------- | -------------------------------------------- |
-| **[LFT-Jasmin-Compiler](https://github.com/GiuseppeFalcone/LFT-Jasmin-Compiler)** | A compiler for a custom language that generates Jasmin assembly code. | `Java`, `Jasmin`, `Compiler Design`          |
-| **[MailFX](https://github.com/GiuseppeFalcone/MailFX)**                | A client-server mail application with a graphical user interface. | `Java`, `JavaFX`, `Client-Server Architecture` |
 | **[CineVault](https://github.com/GiuseppeFalcone/CineVault)**              | A movie information and recommendation platform.          | `Python`, `Jupyter`, `Pandas`, `JavaScript`  |
-| **[Architettura-Esercizi](https://github.com/GiuseppeFalcone/Architettura-Esercizi)** | A collection of exercises on low-level computer architecture topics. | `C`, `Assembly`, `Computer Architecture`     |
+| **[MailFX](https://github.com/GiuseppeFalcone/MailFX)**                | A client-server mail application with a graphical user interface. | `Java`, `JavaFX`, `Client-Server Architecture` |
+| **[LFT-Jasmin-Compiler](https://github.com/GiuseppeFalcone/LFT-Jasmin-Compiler)** | A compiler for a custom language that generates Jasmin assembly code. | `Java`, `Jasmin`, `Compiler Design`          |
 
 ---
 
